@@ -1,7 +1,7 @@
 # Name: Terrance Parks
 # Course:   CIS 145 Introduction to DevOps
 # CRN:      45595
-# Date: 2/15/2019
+# Date: 3/03/2019
 # Assignment: Make - Write a Makefile to Compile C Code
 
 # This executes the ServerCountThree executable, creating it if necessary
